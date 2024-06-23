@@ -1,0 +1,6 @@
+{
+  "accessToken": "accessToken",
+  "expiresIn": 300,
+  "refreshToken": "refreshToken",
+  "refreshExpiresIn": 500
+}
